@@ -4,6 +4,8 @@ advice-generator-app CHALLENGE
 # Project Link :
 https://jank1510.github.io/advice-generator-app/
 
+# Description:
+Advice Slip Web Application Using [Advice Slip API] (https://api.adviceslip.com/advice)
 
 # Preview Image:
 <p align='center'> 
